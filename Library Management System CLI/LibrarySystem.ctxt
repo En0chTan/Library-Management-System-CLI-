@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LibrarySystem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=id
+comment2.target=LibraryItem\ findItemById(java.lang.String)
+comment3.params=id
+comment3.target=Member\ findMemberById(java.lang.String)
+numComments=4

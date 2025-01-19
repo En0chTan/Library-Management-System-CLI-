@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Member
+comment1.params=memberId\ name
+comment1.target=Member(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMemberId()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.util.List\ getBorrowedItems()
+comment5.params=item
+comment5.target=void\ borrowItem(LibraryItem)
+comment6.params=item
+comment6.target=void\ returnItem(LibraryItem)
+numComments=7

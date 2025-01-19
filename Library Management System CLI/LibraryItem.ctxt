@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LibraryItem
+comment1.params=id\ title
+comment1.target=LibraryItem(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=boolean\ isBorrowed()
+comment5.params=
+comment5.target=void\ borrowItem()
+comment6.params=
+comment6.target=void\ returnItem()
+comment7.params=daysLate
+comment7.target=double\ calculateLateFee(int)
+numComments=8
