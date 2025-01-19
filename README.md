@@ -1,8 +1,8 @@
-# Library-Management-System-CLI-
+# Library-Management-System-CLI📚-
 
 This project demonstrates a Library Management System (LMS) that is designed and implemented using Object-Oriented Programming (OOP) principles and UML diagrams. The LMS provides functionalities to manage library items, handle borrowing and returning processes, calculate late fees, and track transactions seamlessly.
 
-Features
+<b> Features </b>
 
 1. Class Design and Hierarchy
 Abstract class LibraryItem with attributes such as title, id, and status.
